@@ -10,7 +10,7 @@ import os
 # --------------------
 DATA_DIR = "dataset"
 BATCH_SIZE = 16
-EPOCHS = 10
+EPOCHS = 16
 LR = 1e-4
 NUM_CLASSES = 40
 DEVICE = "cuda" if torch.cuda.is_available() else "cpu"

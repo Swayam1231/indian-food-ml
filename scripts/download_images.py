@@ -4,7 +4,7 @@ import os
 # =========================
 # CONFIG: CHANGE THIS
 # =========================
-CLASS_NAME = "chole"   
+CLASS_NAME = "dosa"   
 QUERIES = [
     "{name} food",
     "indian {name}",
